@@ -1,3 +1,5 @@
+
+
 **Red-Bus API**
 ===============
 
@@ -74,7 +76,7 @@ GET https://red-bus-api.vercel.app/api/routes
 **Example Request:**
 
 ```
-GET https://your-hosting-url.com/api/routes/1
+GET https://red-bus-api.vercel.app/api/routes/1
 
 ```
 
